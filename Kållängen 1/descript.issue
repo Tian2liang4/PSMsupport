@@ -1,0 +1,8 @@
+I can see the system from the portal, it reads 12.8 kWh. What you anticipated is correct: they connect 4 pcs battery (10kwh) to a controller preconfigured for 5 batteries.
+
+I can remember that KÄLLSTRÖMS Elektriska did order 5 systems in one order:
+• PSM12.5 -- 3 pcs
+• PSM10 – 2 pcs
+They must have mixed up different controller. The configuration of the system is marked clearly on the canton box.
+
+It is now possible to send over USB jump driver + CAN dongle. I suggest that they check and switch controller box first. Otherwise, they will probably have more mismatch later. it will be much easier and save time just to switch over with the correct controller.
